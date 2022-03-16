@@ -29,5 +29,5 @@ What you should learn from this project:
 - - - -
 
 # Author
-  * Derrick Owusu - <elikemowusu>
+  * Derrick Owusu - <elikemowusu2@gmail.com>
   
